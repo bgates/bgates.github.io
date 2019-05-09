@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{160:function(t,a,n){"use strict";n.r(a);var e=n(4),o=(n(0),n(60));a.default=function(t){t.data;var a=t.pageContext,n=a.posts,u=a.tag;return Object(e.a)("div",null,Object(e.a)("div",null,"Posts About ",u),Object(e.a)("div",null,Object(e.a)("ul",null,n.map(function(t,a){return Object(e.a)("li",{key:a},Object(e.a)(o.a,{to:t.frontmatter.path},t.frontmatter.title))}))))}}}]);
+//# sourceMappingURL=component---src-components-single-tag-index-js-ddf9d4ef4d612569b1d9.js.map
